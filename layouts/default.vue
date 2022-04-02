@@ -1,5 +1,6 @@
 <template>
- <div class="app">
+  <div class="app">
     <Nuxt keep-alive />
- </div>
+  </div>
 </template>
+
